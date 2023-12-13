@@ -1,0 +1,52 @@
+1..............
+A paper titled "Online voting system using cloud", this research work aims to implement an online voting system using Microsoft SQL Server 2012 and Microsoft Azure as a cloud. The main reason for this shift from manual voting system to digital voting system is that people can consume their time and vote from anywhere through online. The system has no need of ballot papers and all authorized and eligible persons can register through online and vote by logging into their own systems.
+
+The most important details in this text are that India currently uses a manual race framework, which causes issues due to the paper tally based race framework. An online framework, which includes strategies like enlistment of voters, vote throwing, vote checking, and pronouncing results, would be a decent answer for supplanting the current framework .The proposed framework will reduce the risk of defilment by using NADRA's online database and Computerized National Identity Cards (CNIC) to enlist all voters of the age 18 or above and check and verify their information. 
+
+If the voter hasn't yet voted, they can click on the election and submit a tamper-proof electronic ballot. When the voter submits a ballot, the results are encrypted and unbroken anonymous. The voter is issued a receipt and is currently blocked from picking for this election once more. Once the vote has concluded, the results are instantly tabulated.
+
+The Online Voting Platform offers clever tickets, brilliant agenda highlights, vote counting, classification and revealing.  it enables heads to make decides on polls with the goal that voters can't cast invalid votes, nor do they should be checked while tallying. The Online Voting Platform offers the least demanding and most helpful technique for directors and voters alike.
+
+2.............
+
+This paper titled "Towards Secure E-voting using ethereum blockchain" ,explains how  blockchain is a powerful tool for digitalizing everyday services, such as administrative operations, fintech procedures, and everyday services that can only be done offline and/or in person. Smart contracts are meaningful pieces of codes, to be integrated in the blockchain and executed as scheduled in every step of blockchain updates .
+
+ Blockchain with the smart contracts is a good candidate to use in developments of safer, cheaper, more secure, more transparent, and easier-to-use e-voting systems. This work has implemented and tested a sample e-voting application as a smart contract for the Ethereum network using the Ethereum wallets and the Solidity language. Android platform is also considered to allow voting for people who do not have an Ethereum wallet.
+Ethereum blockchain will hold the records of ballots and votes. Users can submit their votes via an Android device or directly from their Ethereum wallets, and these transaction requests are handled with the consensus of every single Ethereum node. The blockchain is a highly transparent system that can be used in many areas, such as trade, but studies have suggested that it can be used in many more areas over time due to its high degree of transparency. 
+
+This project aims to provide a secure voting environment and show that a reliable e-voting scheme is possible using blockchain. This will lead humanity to the true direct democracy, as elections can easily be corrupted or manipulated.
+
+3........
+
+This paper titled "Application for Online Voting System Using Android Device" describes voting is an important aspect for democratic countries, but the existing voting system has flaws such as time consuming process and lack of security. To improve the existing voting system, an online voting system using Android devices has been designed to provide better security, less time consuming process, and better results.
+
+Voters can cast their vote remotely from anywhere in the country with the help of an Android device and voting application on their device.Android applications are compatible with almost all Android devices and have two stage authentication techniques: facial recognition and One Time Password (OTP).
+Results of the election will be displayed on individual voter's device in terms of notification and voter will get updates about the election to enhance the system performance.
+The proposed system will use instant messaging service to obtain OTP after image authentication, which relies on the user's ability to recognize pre-chosen pictures. The proposed system will mainly target the urban population to overcome these flaws. AOVSAD is a project of internet voting with facial recognition and one time password to overcome the drawbacks of conventional voting systems. It consists of an Android application with voter ID and camera for face detection and recognition. Data of voters is stored in a database, images of faces are stored with various angles, and voter IDs are stored in a local server.
+
+This proposed system uses XAMPP server which is not real time server. To improve performance of system some real time server may be used. One of such platform is AmazonWeb Services (AWS)
+
+
+
+4.............
+
+This paper titled "An efficient and secure Mobile phone voting system"  proposes a mobile phone voting protocol based on hybrid cryptosystem. It consists of three phases: online registration, vote casting and vote collecting and result phase. The proposed protocol provides secure and efficient online vote casting and can also be implemented parallel with paper ballot voting system. 
+
+It has efficiency, security and deployable in developing countries due to its reliance on SMS messaging without requiring internet connectivity.The proposed system for e-voting (electronic voting) is designed to eliminate security threats such as vote buying and coercion, online registration, secrecy of ballot, anonymity of voter and double voting. It uses a mobile phone device that is small in size, low power, low-priced, and uses Global System for Mobile Communication (GSM) technology.The proposed Mobile Phone Voting System (MPVS) has four key features: eligibility, uniqueness, accuracy, integrity, fairness, secrecy, and cost-effectiveness. 
+
+ The system consists of four parts: mobile phone, authentication server, verification server, and counting server. The proposed system consists of three levels: pre voting, voting and post voting. Voter secrecy is ensured by using blind signature system.
+
+This paper proposes mobile phone voting system (MPVS) with online mobile voting registration phase based on hybrid cryptosystem. System prevent double voting in case of casting ballots first from mobile phone and then from pooling booth. Proposed system is more efficient 
+and reliable in the sense that data will be send to election commission server through secure SMS. Our system didn’t need internet and any special hardware device which reduces the cost.
+
+5..........
+This paper titled "A proposal of Blockchain-based electronic voting system" this paper proposes a blockchain-based electronic voting system to improve the Estonian electronic voting system's universal verifiability issues. A blockchain is a distributed database, where the complete data is shared among all participants in the network. 
+
+We need a voting system that does not allow third-party to easily disturb or dismiss a legal referendum or election. By utilizing the strengths of blockchain that distributes trust to participant in its network, we can improve the availability of a voting system without relying on third-party interference. 
+
+he proposed system is a centralized e-voting system with dedicated servers in one data center, but has not allowed the public to verify it. Vulnerabilities, such as state-level attackers, have been identified in the Estonian e-voting system, which is a centralized e-voting system with dedicated servers in one data center.Our proposed system still has wide room for improvementsas described. Also, it needs time to popularize blockchain for a voting system as it is a novel idea and voting itself is a crucial matter in a democratic country. However, we believe improvements in future e-voting systems will provide a better solution to the current issues.
+
+
+
+
+
