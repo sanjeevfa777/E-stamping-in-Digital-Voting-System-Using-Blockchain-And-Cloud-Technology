@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918586097715",
+    "firebase_url": "https://ovs-db-default-rtdb.firebaseio.com",
+    "project_id": "ovs-db",
+    "storage_bucket": "ovs-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918586097715:android:4b487c104e2aa7200b2346",
+        "android_client_info": {
+          "package_name": "com.onlie.voting.onlinevotingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918586097715-kv96te3agthsujlq3kdqp37roqc2fh68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWd90B9wk7KC7mJVphKuWtRFPiEkPIdM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918586097715-kv96te3agthsujlq3kdqp37roqc2fh68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
